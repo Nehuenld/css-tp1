@@ -1,0 +1,71 @@
+*{
+	padding: 20px
+}
+
+.elemento1{
+	background-color: cyan;
+	font-size: 10px;
+	color: darkgreen;
+	font-family: 'Cinzel', serif;
+}
+
+.elemento2{
+	background-color: blue;
+	font-size: 20px;
+	color: aqua;
+	font-family: 'Cinzel', serif;
+
+}
+
+.elemento3{
+	background-color: lightblue;
+	font-size: 30px;
+	color: green;
+	font-family: 'Cinzel', serif;
+}
+
+.elemento4{
+	background-color: rgb(255, 45, 0);
+	font-size: 40px;
+	color: silver;
+	font-family: 'Pacifico', cursive;
+}
+
+.elemento5{
+	background-color: rgb(220, 125, 0);
+	font-size: 50px;
+	color: darkgray;
+	font-family: 'Pacifico', cursive;
+}
+
+.elemento6{
+	background-color: rgb(200, 165, 0);
+	font-size: 60px;
+	color: gray;
+	font-family: 'Pacifico', cursive;
+}
+
+.elemento7{
+	background-color: #12FF00;
+	font-size: 30px;
+	color: red;
+	font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+.elemento8{
+	background-color: #5DFF5E;
+	font-size: 20px;
+	color: firebrick;
+	font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+.elemento9{
+	background-color: #A4FF24;
+	font-size: 35px;
+	color: darkred;
+	font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
